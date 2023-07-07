@@ -1,10 +1,9 @@
 Food Delivery Website
-This is a food delivery website project created using HTML and CSS. The goal of this project is to provide a user-friendly interface for customers to browse and order food from local restaurants.
+This is a food delivery website project created using HTML and CSS. The goal of this project is to provide a user-friendly interface for customers to order their daily portions of healthy meal at their doorstep.
 
 Features
-The website allows users to search for restaurants by location, cuisine, or keywords.
+The website allows users to select their meal plan and frequency.
 Users can view menus, photos, and reviews of restaurants.
-Users can add items to their cart and checkout.
 
 
 Tech Stack
